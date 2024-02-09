@@ -1,7 +1,24 @@
 <h1 align="center">Hi 👋, I'm Nurudeen Ajani</h1>
-<h3 align="center">👋 Hello there! Welcome to my GitHub profile! 👨‍💻 Passionate about bringing products to life and intrigued by the inner workings of systems, I've found my niche in the backend development realm. As a backend engineer, I specialize in utilizing technologies such as Python, Django, Django Rest Framework, and Nginx to craft robust and scalable solutions. My proficiency extends beyond the backend, with a solid understanding of DevOps practices and a comfort zone in the Linux environment. Whether it's building APIs, optimizing server configurations, or ensuring seamless deployment, I thrive in creating efficient and reliable systems. While my core expertise lies in backend technologies, I've also delved into the world of JavaScript, and I possess a modest proficiency in React for front-end development. This allows me to create end-to-end solutions and seamlessly integrate frontend components with the APIs I build. Feel free to explore my repositories and projects to get a glimpse of my coding journey. I'm always eager to collaborate, learn, and contribute to exciting projects. Let's connect and make the world of technology even more amazing! 🌐💻✨</h3>
+<div align="center">
+  <h3>👋 Hello there! Welcome to my GitHub profile! 👨‍💻</h3>
+  <p>
+    Passionate about bringing products to life and intrigued by the inner workings of systems, I've found my niche in the backend development realm.
+  </p>
+  <p>
+    As a backend engineer, I specialize in utilizing technologies such as Python, Django, Django Rest Framework, and Nginx to craft robust and scalable solutions.
+  </p>
+  <p>
+    My proficiency extends beyond the backend, with a solid understanding of DevOps practices and a comfort zone in the Linux environment. Whether it's building APIs, optimizing server configurations, or ensuring seamless deployment, I thrive in creating efficient and reliable systems.
+  </p>
+  <p>
+    While my core expertise lies in backend technologies, I've also delved into the world of JavaScript, and I possess a modest proficiency in React for front-end development. This allows me to create end-to-end solutions and seamlessly integrate frontend components with the APIs I build.
+  </p>
+  <p>
+    Feel free to explore my repositories and projects to get a glimpse of my coding journey. I'm always eager to collaborate, learn, and contribute to exciting projects. Let's connect and make the world of technology even more amazing! 🌐💻✨
+  </p>
+</div>
 
-- 💬 Ask me about **Python, Javascript, Django, DRF, React and DevOPs**
+- 💬 Ask me about **Python, Javascript, Django, DRF, React, and DevOps**
 
 - 📫 Reach me at **nurudeenolamide010@gmail.com**
 
